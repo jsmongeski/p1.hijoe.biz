@@ -4,7 +4,10 @@
 
 <h1>Welcome to P1</h1>
 
-<p>Git bootcamp!.</p>
+
+<p><b>Git bootcamp!</b></p>
+
+
 
 </body>
 </html>
