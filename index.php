@@ -22,10 +22,10 @@
 
 
       <address>September 17, 2013<br><br>
-      Acknowledgements for CSS help and review:<br>
-      http://www.w3.org/Style/Examples/011/firstcss.en.html and <br>
-      CSS Fundamentals at lynda.com.<br><br>
-      Code editor: Sublime Text 2
+         Acknowledgements for CSS help and review:<br>
+         http://www.w3.org/Style/Examples/011/firstcss.en.html and <br>
+         CSS Fundamentals at lynda.com.<br><br>
+         Code editor: Sublime Text 2
       </address>
 
   </body>
