@@ -21,10 +21,11 @@
   Powerball numbers soon so I can get back to playing Bach!  (Actually my second choice for a career was any computer-related work, so things have worked out ok!)
 
 
-<address>September 17, 2013<br>
-Acknowledgements for CSS help and review:
-http://www.w3.org/Style/Examples/011/firstcss.en.html and CSS Fundamentals at lynda.com.
-<br>Code editor: Sublime Text 2
+<address>September 17, 2013<br><br>
+Acknowledgements for CSS help and review:<br>
+http://www.w3.org/Style/Examples/011/firstcss.en.html and <br>
+CSS Fundamentals at lynda.com.
+<br><br>Code editor: Sublime Text 2
 </address>
 
 </body>
